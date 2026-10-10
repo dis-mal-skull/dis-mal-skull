@@ -1,28 +1,149 @@
-<h1 align="center">Hi 👋, I'm Camilo Osorio</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h1 align="center">Hi, I'm Camilo Osorio 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dis-mal-skull&label=Profile%20views&color=0e75b6&style=flat" alt="dis-mal-skull" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dis-mal-skull" alt="dis-mal-skull" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Loki-TV**
-
-- 💬 Ask me about **PHP, Wordpress,Node, Python,Linux,**
-
-- 📫 How to reach me **dismal.creative@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <strong>Full Stack Developer · 3D Artist · AI Automation</strong><br>
+  <em>I build digital products where engineering meets design.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  Medellín, Colombia · UTC−5 · Available for freelance projects
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dis-mal-skull&show_icons=true&locale=en&layout=compact" alt="dis-mal-skull" /></p>
+<p align="center">
+  <a href="https://camilosorio.com"><img src="https://img.shields.io/badge/Website-camilosorio.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://dismal.site"><img src="https://img.shields.io/badge/Blog-dismal.site-1a1a1a?style=for-the-badge&logo=astro&logoColor=white" alt="Blog"></a>
+  <a href="https://www.linkedin.com/in/camilosoriodesign"><img src="https://img.shields.io/badge/LinkedIn-camilosoriodesign-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:info@camilosorio.com"><img src="https://img.shields.io/badge/Email-info@camilosorio.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/573214567348"><img src="https://img.shields.io/badge/WhatsApp-Message_me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dis-mal-skull&show_icons=true&locale=en" alt="dis-mal-skull" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dis-mal-skull&" alt="dis-mal-skull" /></p>
+## 👤 About me
 
+I'm a designer and web developer with **10+ years of experience** building digital products. I work as a freelancer across the whole audiovisual spectrum — from graphic design and photo retouching to 3D modeling, web development and games.
+
+I've spent years building **WordPress** sites, managing **cPanel/WHM** servers, integrating **payment gateways** and automating processes with **n8n and AI**. I've also explored **mobile apps**, **Telegram bots** and interactive experiences with **Three.js**.
+
+- 🔭 Currently building client products with **Next.js, React Native and AI agents**
+- 🎓 Studying **Procesamiento de Datos con IA** at **SENA**
+- 🌱 Deep-diving into **RAG, LLM agents and workflow automation**
+- 💬 Ask me about **PHP, WordPress, Node.js, Python, Linux and AI automation**
+- 🌎 Working with clients across **LATAM, USA and Europe**
+
+---
+
+## 📊 By the numbers
+
+| 10+ | 50+ | 25+ | 98% |
+|:---:|:---:|:---:|:---:|
+| **Years** of experience | **Projects** delivered | **Clients** satisfied | **Client retention** |
+| since 2014 | web · 3D · AI | LATAM · USA · EU | yearly average |
+
+---
+
+## 🧰 Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,kotlin,cs,react,nextjs,astro,tailwind,html,css,nodejs,bun,express&perline=15" alt="Languages and frameworks" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,supabase,firebase,docker,git,github,linux,ubuntu,nginx,vercel,cloudflare&perline=15" alt="Databases, DevOps and cloud" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,blender,photoshop,illustrator,threejs,vscode,android,unity,godot,unrealengine&perline=15" alt="Design, 3D and game tooling" />
+</p>
+
+**AI & Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor">
+</p>
+
+---
+
+## 📈 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dis-mal-skull&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Camilo's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dis-mal-skull&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dis-mal-skull&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌑 Biblioteca Esotérica</h3>
+      <p>Android app with a Directus backend, points system, integrated ads and user authentication.</p>
+      <code>Android</code> <code>Directus</code> <code>Kotlin</code> <code>Firebase</code>
+    </td>
+    <td width="50%">
+      <h3>📸 FinSnap — Personal Finance</h3>
+      <p>Cross-platform Android/iOS app to track household and business finances.</p>
+      <code>React Native</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Prisma</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📺 Latino IPTV — Streaming Platform</h3>
+      <p>Full website with content catalog, integrated payment gateway and client dashboard.</p>
+      <code>WordPress</code> <code>WooCommerce</code> <code>cPanel</code> <code>Stripe</code>
+    </td>
+    <td width="50%">
+      <h3>🧬 Diagnostigen — DNA Testing</h3>
+      <p>WordPress platform for a genetic testing lab serving people and animals.</p>
+      <code>WordPress</code> <code>Elementor</code> <code>PHP</code> <code>cPanel</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Telegram Bot — IPTV Management</h3>
+      <p>Private Telegram bot to manage IPTV accounts end to end.</p>
+      <code>Python</code> <code>Node.js</code> <code>Telegram API</code> <code>n8n</code>
+    </td>
+    <td width="50%">
+      <h3>☀️ Futuro Solar — Carbon Calculator</h3>
+      <p>Interactive web experience with Three.js visualizing real world energy data.</p>
+      <code>Three.js</code> <code>Astro</code> <code>TypeScript</code> <code>WebGL</code>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://camilosorio.com"><b>→ See all projects on camilosorio.com</b></a>
+</p>
+
+---
+
+## 🎓 Education & certifications
+
+- **Procesamiento de Datos con IA** — SENA *(in progress)*
+- **Técnico en Sistemas** — Unitecnica Manizales *(2016)*
+- **Técnico en Animación 3D** — Instituto de Artes Digitales *(2014)*
+- **Programación de Videojuegos** — Specialized course · Unity & C# *(2014)*
+
+---
+
+<p align="center">
+  <b>Let's build something great together.</b><br><br>
+  <a href="https://camilosorio.com"><img src="https://img.shields.io/badge/Portfolio-camilosorio.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/camilosoriodesign"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:info@camilosorio.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dis-mal-skull&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
